@@ -12,7 +12,7 @@
 
 Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu kehidupan dan penghidupan masyarakat yang disebabkan baik oleh faktor alam dan/ atau faktor non alam maupun faktor manusia sehingga mengakibatkan timbulnya korban jiwa manusia kerusakan lingkungan kerugian harta benda dan dampak psikologis (UU No 24 Tahun 2007):
 
-## Penggunaan Sistem : 
+## Portofolio Project : 
 1.	Halaman Utama
 
 <table border="0" align="center">
