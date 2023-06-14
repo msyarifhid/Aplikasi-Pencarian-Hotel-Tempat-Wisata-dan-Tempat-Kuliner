@@ -15,17 +15,22 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 ## Penggunaan Sistem : 
 1.	Halaman Utama
 
-<div class="row">
-    <div class="col-md-6">
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>
         <p align="center"><img src="Website/assets/img/portofolio/app/home.png" alt="" height="400"></p>
-    </div>
-    <div class="col-md-6">
+    </td>
+    <td>
         <p align="center"><img src="Website/assets/img/portofolio/app/home2.png" alt="" height="400"></p>
-    </div>
-    <div class="col-md-12">
-        <p align="justify">Saat pertama kali user membuka aplikasi yang akan tampil yaitu logo aplikasi, setelah itu sistem akan menampilkan halaman utama atau beranda yang dimana isinya terdapat logo aplikasi yang terletak dibagian atas. Kemudian di bawah logo terdapat 4 menu bar diantaranya, menu hotel, menu kuliner, menu wisata dan menu panduan. Pada bagian bawah menu bar terdapat deskripsi singkat mengenai kota yogyakarta dan sejarah singkatnya Yogyakarta, di bagian bawah deskripsi terdapat fragment map yang berfungsi untuk mengetahui lokasi kita saat ini. Sangant berguna banget bagi orang yang belum mengetahui posisi lokasi saat ini.</p>
-    </div>
-</div>
+    </td>
+ </tr>
+</table>
+
+<p align="justify">Saat pertama kali user membuka aplikasi yang akan tampil yaitu logo aplikasi, setelah itu sistem akan menampilkan halaman utama atau beranda yang dimana isinya terdapat logo aplikasi yang terletak dibagian atas. Kemudian di bawah logo terdapat 4 menu bar diantaranya, menu hotel, menu kuliner, menu wisata dan menu panduan. Pada bagian bawah menu bar terdapat deskripsi singkat mengenai kota yogyakarta dan sejarah singkatnya Yogyakarta, di bagian bawah deskripsi terdapat fragment map yang berfungsi untuk mengetahui lokasi kita saat ini. Sangant berguna banget bagi orang yang belum mengetahui posisi lokasi saat ini.</p>
 
 Pengkajian dampak bencana penting dalam rangka merumuskan program strategis penanggulangan bencana baik saat prabencana tanggap darurat dan pascabencana.
 
