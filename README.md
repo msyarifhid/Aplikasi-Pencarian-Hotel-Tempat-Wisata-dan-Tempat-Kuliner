@@ -134,7 +134,7 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 
 <p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/home-dash.png" height="400"></a></p>
 
-<p align="justify">Halaman ini merupakan tampilahn halaman utama beranda admin untuk mengelolada data seperti menambahkan, merubah menghapus data yang akan tersinkronisasi pada aplikasi android nya, didalamnya terdapat beberapa menu diantaranya yaitu, menu dashboard, olah admin, olah kabupaten, olah jenis kamar, olah hotel, olah kamar hotel, olah wisata, olah kuliner dan olah menu kuliner. Halaman ini dapat dijelaskan bahwa di setiap menu mempunyai activity yang berbeda. Pada halaman beranda terdapat kotak menu-menu yang menampilkan semua jumlah data yang telah di inputkan sebelumnya. Sehingga dapat mempermudah admin dalam pengecekan jumlah data-data yang terdapat pada database.</p>
+<p align="justify">Halaman ini merupakan tampilan halaman utama beranda admin untuk mengelolada data seperti menambahkan, merubah menghapus data yang akan tersinkronisasi pada aplikasi android nya, didalamnya terdapat beberapa menu diantaranya yaitu, menu dashboard, olah admin, olah kabupaten, olah jenis kamar, olah hotel, olah kamar hotel, olah wisata, olah kuliner dan olah menu kuliner. Halaman ini dapat dijelaskan bahwa di setiap menu mempunyai activity yang berbeda. Pada halaman beranda terdapat kotak menu-menu yang menampilkan semua jumlah data yang telah di inputkan sebelumnya. Sehingga dapat mempermudah admin dalam pengecekan jumlah data-data yang terdapat pada database.</p>
 
 
 ## License
