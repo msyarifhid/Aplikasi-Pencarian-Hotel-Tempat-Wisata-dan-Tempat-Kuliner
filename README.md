@@ -29,6 +29,7 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 <p align="justify">Saat pertama kali user membuka aplikasi yang akan tampil yaitu logo aplikasi, setelah itu sistem akan menampilkan halaman utama atau beranda yang dimana isinya terdapat logo aplikasi yang terletak dibagian atas. Kemudian di bawah logo terdapat 4 menu bar diantaranya, menu hotel, menu kuliner, menu wisata dan menu panduan. Pada bagian bawah menu bar terdapat deskripsi singkat mengenai kota yogyakarta dan sejarah singkatnya Yogyakarta, di bagian bawah deskripsi terdapat fragment map yang berfungsi untuk mengetahui lokasi kita saat ini. Sangant berguna banget bagi orang yang belum mengetahui posisi lokasi saat ini.</p>
 
 
+
 2.	Halaman Menu Hotel
 
 Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menampilkan halaman hotel yang didalamnya terdapat 2 tombol yaitu tombol list hotel dan tombol hotel sekitar serta bar pencarian hotel. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian hotel. Kemudian sistem akan menampilkan halaman hotel hasil pencarian yang telah diinputkan oleh user. Saat user menekan tombol menu list hotel sistem akan menampilkan semua data hotel yang terdapat pada database, sedangkan jika user menekan tombol menu hotel sekitar sistem akan menampilkan data hotel di sekitaran lokasi user yang berjarak kurang lebih 3 kilo meter dari posisi user berada.
@@ -53,6 +54,7 @@ Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menamp
     </td>
  </tr>
 </table>
+
 
 
 3.	Halaman Deskripsi Hotel dan Petunjuk Arah
