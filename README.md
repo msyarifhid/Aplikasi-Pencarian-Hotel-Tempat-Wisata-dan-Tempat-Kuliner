@@ -31,21 +31,47 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 
 2.	Halaman Menu Hotel
 
-<table border="0" align="center">
+Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menampilkan halaman hotel yang didalamnya terdapat 2 tombol yaitu tombol list hotel dan tombol hotel sekitar serta bar pencarian hotel. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian hotel. Kemudian sistem akan menampilkan halaman hotel hasil pencarian yang telah diinputkan oleh user. Saat user menekan tombol menu list hotel sistem akan menampilkan semua data hotel yang terdapat pada database, sedangkan jika user menekan tombol menu hotel sekitar sistem akan menampilkan data hotel di sekitaran lokasi user yang berjarak kurang lebih 3 kilo meter dari posisi user berada.
+
+<table border="0">
  <tr>
-    <td>
+    <td align="center">
         <p align="center"><img src="Website/assets/img/portofolio/app/hotel.png" alt="" height="400"></p>
     </td>
-    <td>
-        <p align="center"><img src="Website/assets/img/portofolio/app/des-hotel.png" alt="" height="400"></p>
+    <td align="center">
+        <p align="center"><img src="Website/assets/img/portofolio/app/hotel-sekitar.png" alt="" height="400"></p>
     </td>
  </tr>
  <tr>
     <td>
-        <p align="justufy">Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menampilkan halaman hotel yang didalamnya terdapat 2 tombol yaitu tombol list hotel dan tombol hotel sekitar serta bar pencarian hotel. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian hotel. Kemudian sistem akan menampilkan halaman hotel hasil pencarian yang telah diinputkan oleh user.</p>
+        a. Tombol Hotel
+        <p align="justufy">Pada halaman ini sistem akan menampilkan semua data hotel yang terdapat pada database yang terdapat di wilayah Kota Yogyakarta.</p>
     </td>
     <td>
-        <p align="justufy">Setelah user menemukan hotel yang diinginkan, user dapat menekan tombol pilihan hotel maka sistem akan menampilkan halaman deskripsi hotel yang dimana didalamnya terdapat gambar hotel dari hotel yang telah di pilih serta deskripsi mengenai hotel yang telah di pilih. Pada bagian bawah deskripsi terdapat fragment map lokasi hotel berada, yang dimana fragment map dapat di perbesar atau pun di perkecil.</p>
+        b. Tombol Hotel Sekitar
+        <p align="justufy">Pada halaman ini sistem akan menampilkan halaman hotel sekitar dari posisi user berada jika menekan tombol hotel sekitar anda pada halaman menu hotel. Maka sistem akan langsung menampilkan halaman hotel di sekitar user berada.</p>
+    </td>
+ </tr>
+</table>
+
+
+3.	Halaman Deskripsi Hotel dan Petunjuk Arah
+
+<table border="0" align="center">
+ <tr>
+    <td>
+        <p align="center"><img src="Website/assets/img/portofolio/app/hotel-des.png" alt="" height="400"></p>
+    </td>
+    <td>
+        <p align="center"><img src="Website/assets/img/portofolio/app/hotel-maps.png" alt="" height="400"></p>
+    </td>
+ </tr>
+ <tr>
+    <td>
+        <p align="justufy">Setelah user menemukan hotel yang diinginkan, user dapat menekan tombol pilihan hotel maka sistem akan menampilkan halaman deskripsi hotel yang dimana didalamnya terdapat gambar hotel dari hotel yang telah di pilih serta deskripsi mengenai hotel yang telah di pilih. Pada bagian bawah deskripsi terdapat fragment map lokasi hotel berada, yang dimana fragment map dapat di perbesar atau pun di perkecil. Pada bagian bawah nya fragment terdapat beberapa tempat pilihan seperti hotel, tempat wisata dan tempat kuliner terdekat dari lokasi hotel yang terpilih. Pada bagian tempat pilihan juga terdapat jarak tempuh dari posisi hotel yang terpilih. Jika ingin menuju lokasi hotel yang terpilih, user dapat menekan fragment map kemudian tekan tombol panah yang nantinya akan dialihkan ke aplikasi google map dan user dapat mengetahui rute jarak tempuhnya.</p>
+    </td>
+    <td>
+        <p align="justufy">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi hotel yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi hotel. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
     </td>
  </tr>
 </table>
