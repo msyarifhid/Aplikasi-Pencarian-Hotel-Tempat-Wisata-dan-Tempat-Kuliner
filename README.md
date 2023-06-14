@@ -137,6 +137,23 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 <p align="justify">Halaman ini merupakan tampilan halaman utama beranda admin untuk mengelolada data seperti menambahkan, merubah menghapus data yang akan tersinkronisasi pada aplikasi android nya, didalamnya terdapat beberapa menu diantaranya yaitu, menu dashboard, olah admin, olah kabupaten, olah jenis kamar, olah hotel, olah kamar hotel, olah wisata, olah kuliner dan olah menu kuliner. Halaman ini dapat dijelaskan bahwa di setiap menu mempunyai activity yang berbeda. Pada halaman beranda terdapat kotak menu-menu yang menampilkan semua jumlah data yang telah di inputkan sebelumnya. Sehingga dapat mempermudah admin dalam pengecekan jumlah data-data yang terdapat pada database.</p>
 
 
+
+6.	Halaman list Data Hotel
+
+<p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/hotel-list.png" height="400"></a></p>
+
+<p align="justify">Pada halaman ini merupakan halaman mengenai olah data hotel. Jika admin menekan tombol menu olah hotel sistem akan menampilkan data-data mengenai hotel. Didalamnya terdapat tabal yang memiliki 8 field diantaranya yaitu field nomer, gambar hotel, nama hotel, kabupaten, fasilitas, deskripsi hotel, alamat hotel dan aksi, pada field aksi ini terdapat 2 tombol yaitu tombol edit yang berfungsi untuk merubah atau mengupdate data-data hotel dan tombol hapus berfungsi untuk menghapus data hotel yang terdapat pada tabel. Tabel ini yang bertujuan untuk menampilkan data-data hotel sesuai yang diinputkan olah admin.</p>
+
+
+
+7.	Halaman Tambah Data Hotel
+
+<p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/hotel-tambah.png" height="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/hotel-tambah2.png" height="400"></a></p>
+
+<p align="justify">Halaman ini merupakan halaman form tambah data hotel, untuk menambahkan data hotel ini pada bagian halaman olah hotel terdapat tombol tambah. Maka sistem akan menampilkan form tambah data hotel, kemudian admin dapat menginputkan data-data hotel sesuai inputan yang tertera pada form inputan. Pada bagian form inputan terdapat fragment map yaitu untuk menandai letaknya koordinat hotel, maka latitude dan longitude akan terisi otomatis ketika admin memindahkan tanda merah yang terdapat pada fragment map. Kemudian dibawah fragment map terdapat suatu inputan yang harus di isi manual yaitu berupa, nama hotel, kabupaten, deskripsi, alamat, dan gambar. Setelah admin selesai menginputkan semua data yang terdapat pada form inputan, dapat langsung menekan tombol simpan. Kemudian sistem akan menampilkan pop up mengenai informasi bahwa data yang telah di inputkan telah tersimpan dan sistem akan otomatis masuk ke halaman olah hotel yang didalamnya terdapat tabel pada bagian menu olah hotel.</p>
+
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
