@@ -8,6 +8,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Portofolio Project : <a href="Website/assets/img/portofolio/PORTOFOLIO PROJECT APLIKASI PENCARIAN HOTEL TEMPAT WISATA DAN KULINER DI KOTA YOGYAKARTA .pdf" download>Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a>
+
 ## Aplikasi Pencarian Hotel, Tempat Kuliner dan Tempat Wisata 
 
 Mengembangkan media informasi pemetaan koordinat lokasi hotel, tempat wisata dan kuliner serta rute petunjuk arah yang dituju di Kota Yogyakarta berbasis Android.
@@ -31,9 +33,6 @@ Mengembangkan media informasi pemetaan koordinat lokasi hotel, tempat wisata dan
 1. Pengambilan data mengenai data hotel, tempat wisata dan kuliner yang terdapat di wilayah kota Yogyakarta.
 2. Menentukan titik koordinat lokasi hotel, tempat wisata dan kuliner.
 3. Pengambilan rute petunjuk arah sesuai lokasi yang akan dituju.
-
-
-## Portofolio Project : <a href="Website/assets/img/portofolio/PORTOFOLIO PROJECT APLIKASI PENCARIAN HOTEL TEMPAT WISATA DAN KULINER DI KOTA YOGYAKARTA .pdf" download>Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a>
 
 
 ## License
