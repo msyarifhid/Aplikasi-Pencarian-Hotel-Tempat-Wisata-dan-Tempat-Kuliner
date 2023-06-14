@@ -46,10 +46,10 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 </table>
 
 a. Tombol Hotel
-<p align="justufy">Pada halaman ini sistem akan menampilkan semua data hotel yang terdapat pada database yang terdapat di Provinsi Daerah Istimewa Yogyakarta.</p>
+<p align="justify">Pada halaman ini sistem akan menampilkan semua data hotel yang terdapat pada database yang terdapat di Provinsi Daerah Istimewa Yogyakarta.</p>
 
 b. Tombol Hotel Sekitar
-<p align="justufy">Pada halaman ini sistem akan menampilkan halaman hotel sekitar dari posisi user berada jika menekan tombol hotel sekitar anda pada halaman menu hotel. Maka sistem akan langsung menampilkan halaman hotel di sekitar user berada.</p>
+<p align="justify">Pada halaman ini sistem akan menampilkan halaman hotel sekitar dari posisi user berada jika menekan tombol hotel sekitar anda pada halaman menu hotel. Maka sistem akan langsung menampilkan halaman hotel di sekitar user berada.</p>
 
 
 3.	Halaman Deskripsi Hotel dan Petunjuk Arah
@@ -66,10 +66,10 @@ b. Tombol Hotel Sekitar
 </table>
 
 a. Deskripsi Hotel
-<p align="justufy">Setelah user menemukan hotel yang diinginkan, user dapat menekan tombol pilihan hotel maka sistem akan menampilkan halaman deskripsi hotel yang dimana didalamnya terdapat gambar hotel dari hotel yang telah di pilih serta deskripsi mengenai hotel yang telah di pilih. Pada bagian bawah deskripsi terdapat fragment map lokasi hotel berada, yang dimana fragment map dapat di perbesar atau pun di perkecil. Pada bagian bawah nya fragment terdapat beberapa tempat pilihan seperti hotel, tempat wisata dan tempat kuliner terdekat dari lokasi hotel yang terpilih. Pada bagian tempat pilihan juga terdapat jarak tempuh dari posisi hotel yang terpilih. Jika ingin menuju lokasi hotel yang terpilih, user dapat menekan fragment map kemudian tekan tombol panah yang nantinya akan dialihkan ke aplikasi google map dan user dapat mengetahui rute jarak tempuhnya.</p>
+<p align="justify">Setelah user menemukan hotel yang diinginkan, user dapat menekan tombol pilihan hotel maka sistem akan menampilkan halaman deskripsi hotel yang dimana didalamnya terdapat gambar hotel dari hotel yang telah di pilih serta deskripsi mengenai hotel yang telah di pilih. Pada bagian bawah deskripsi terdapat fragment map lokasi hotel berada, yang dimana fragment map dapat di perbesar atau pun di perkecil. Pada bagian bawah nya fragment terdapat beberapa tempat pilihan seperti hotel, tempat wisata dan tempat kuliner terdekat dari lokasi hotel yang terpilih. Pada bagian tempat pilihan juga terdapat jarak tempuh dari posisi hotel yang terpilih. Jika ingin menuju lokasi hotel yang terpilih, user dapat menekan fragment map kemudian tekan tombol panah yang nantinya akan dialihkan ke aplikasi google map dan user dapat mengetahui rute jarak tempuhnya.</p>
 
 b. Petunjuk Arah ke Hotel
-<p align="justufy">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi hotel yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi hotel. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
+<p align="justify">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi hotel yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi hotel. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
 
 
 
@@ -89,10 +89,10 @@ b. Petunjuk Arah ke Hotel
 </table>
 
 a. Tombol Wisata
-<p align="justufy">Pada halaman ini sistem akan menampilkan semua data wisata yang terdapat pada database yang terdapat di Provinsi Daerah Istimewa Yogyakarta.</p>
+<p align="justify">Pada halaman ini sistem akan menampilkan semua data wisata yang terdapat pada database yang terdapat di Provinsi Daerah Istimewa Yogyakarta.</p>
 
 b. Tombol Wisata Sekitar
-<p align="justufy">Pada halaman ini sistem akan menampilkan halaman wisata sekitar, kemudian didalamnya terdapat beberapa data wisata yang terdapat disekitar user berada. Jika user ingin melihat kuliner disekitar, pada halaman menu wisata user bisa langsung menekan tombol wisata sekitar. Sistem akan menampilkan halaman kuliner sekitar.</p>
+<p align="justify">Pada halaman ini sistem akan menampilkan halaman wisata sekitar, kemudian didalamnya terdapat beberapa data wisata yang terdapat disekitar user berada. Jika user ingin melihat kuliner disekitar, pada halaman menu wisata user bisa langsung menekan tombol wisata sekitar. Sistem akan menampilkan halaman kuliner sekitar.</p>
 
 
 5.	Halaman Deskripsi Wisata dan Petunjuk Arah
@@ -109,10 +109,10 @@ b. Tombol Wisata Sekitar
 </table>
 
 a. Deskripsi Wisata
-<p align="justufy">Saat user memilih wisata yang terpilih maka sistem akan menampilkan halaman deskripsi wisata yang didalamnya menjelaskan isi mengenai wisata diantaranya terdapat gambar wisata, nama wisata, alamat wisata dan deskripsi mengenai wisata. Pada bagian bawah deskripsi terdapat fragment map lokasi tempat wisata berada, fragmen ini juga dapat berfungsi untuk melihat disekitaran lokasi tempat wisata. Dibagian fragment juga user dapat memperbesar dan memperkecil posisi lokasi tempat wisata. Jika user ingin mengetahui rute perjalanan menuju lokasi kuliner, pada bagian fragment tekan tombol panah kemudian sistem akan mengalihakan ke aplikasi google map yang akan menampilakan rute tujuan user.</p>
+<p align="justify">Saat user memilih wisata yang terpilih maka sistem akan menampilkan halaman deskripsi wisata yang didalamnya menjelaskan isi mengenai wisata diantaranya terdapat gambar wisata, nama wisata, alamat wisata dan deskripsi mengenai wisata. Pada bagian bawah deskripsi terdapat fragment map lokasi tempat wisata berada, fragmen ini juga dapat berfungsi untuk melihat disekitaran lokasi tempat wisata. Dibagian fragment juga user dapat memperbesar dan memperkecil posisi lokasi tempat wisata. Jika user ingin mengetahui rute perjalanan menuju lokasi kuliner, pada bagian fragment tekan tombol panah kemudian sistem akan mengalihakan ke aplikasi google map yang akan menampilakan rute tujuan user.</p>
 
 b. Petunjuk Arah ke Tempat Wisata
-<p align="justufy">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi tempat wisata yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi tempat wisata. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
+<p align="justify">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi tempat wisata yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi tempat wisata. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
 
 
 
