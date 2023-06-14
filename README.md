@@ -32,7 +32,7 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 
 2.	Halaman Menu Hotel
 
-Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menampilkan halaman hotel yang didalamnya terdapat 2 tombol yaitu tombol list hotel dan tombol hotel sekitar serta bar pencarian hotel. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian hotel. Kemudian sistem akan menampilkan halaman hotel hasil pencarian yang telah diinputkan oleh user. Saat user menekan tombol menu list hotel sistem akan menampilkan semua data hotel yang terdapat pada database, sedangkan jika user menekan tombol menu hotel sekitar sistem akan menampilkan data hotel di sekitaran lokasi user yang berjarak kurang lebih 3 kilo meter dari posisi user berada.
+<p align="justify">Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menampilkan halaman hotel yang didalamnya terdapat 2 tombol yaitu tombol list hotel dan tombol hotel sekitar serta bar pencarian hotel. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian hotel. Kemudian sistem akan menampilkan halaman hotel hasil pencarian yang telah diinputkan oleh user. Saat user menekan tombol menu list hotel sistem akan menampilkan semua data hotel yang terdapat pada database, sedangkan jika user menekan tombol menu hotel sekitar sistem akan menampilkan data hotel di sekitaran lokasi user yang berjarak kurang lebih 3 kilo meter dari posisi user berada.</p>
 
 <table border="0">
  <tr>
