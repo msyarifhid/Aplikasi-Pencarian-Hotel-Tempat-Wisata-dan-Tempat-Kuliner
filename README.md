@@ -46,7 +46,7 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
  <tr>
     <td>
         a. Tombol Hotel
-        <p align="justufy">Pada halaman ini sistem akan menampilkan semua data hotel yang terdapat pada database yang terdapat di wilayah Kota Yogyakarta.</p>
+        <p align="justufy">Pada halaman ini sistem akan menampilkan semua data hotel yang terdapat pada database yang terdapat di Provinsi Daerah Istimewa Yogyakarta.</p>
     </td>
     <td>
         b. Tombol Hotel Sekitar
@@ -74,6 +74,56 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
     </td>
     <td>
         <p align="justufy">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi hotel yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi hotel. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
+    </td>
+ </tr>
+</table>
+
+
+
+4.	Halaman Menu Wisata
+
+<p align="justify">Pada halaman beranda jika user menekan tombol menu wisata maka sistem akan menampilkan halaman tempat wisata yang didalamnya terdapat 2 tombol yaitu tombol list wisata dan tombol wisata sekitar serta bar pencarian wisata. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian wisata. Kemudian sistem akan menampilkan halaman wisata hasil pencarian yang telah diinputkan oleh user. Saat user menekan tombol menu list wisata sistem akan menampilkan semua data wisata yang terdapat pada database, sedangkan jika user menekan tombol menu wisata sekitar sistem akan menampilkan data tenpat wisata di sekitaran lokasi user yang berjarak kurang lebih 3 kilo meter dari posisi user berada.</p>
+
+<table border="0">
+ <tr>
+    <td align="center">
+        <p align="center"><img src="Website/assets/img/portofolio/app/wisata.png" alt="" height="400"></p>
+    </td>
+    <td align="center">
+        <p align="center"><img src="Website/assets/img/portofolio/app/wisata-sekitar.png" alt="" height="400"></p>
+    </td>
+ </tr>
+ <tr>
+    <td>
+        a. Tombol Wisata
+        <p align="justufy">Pada halaman ini sistem akan menampilkan semua data wisata yang terdapat pada database yang terdapat di Provinsi Daerah Istimewa Yogyakarta.</p>
+    </td>
+    <td>
+        b. Tombol Wisata Sekitar
+        <p align="justufy">Pada halaman ini sistem akan menampilkan halaman wisata sekitar, kemudian didalamnya terdapat beberapa data wisata yang terdapat disekitar user berada. Jika user ingin melihat kuliner disekitar, pada halaman menu wisata user bisa langsung menekan tombol wisata sekitar. Sistem akan menampilkan halaman kuliner sekitar.</p>
+    </td>
+ </tr>
+</table>
+
+
+
+5.	Halaman Deskripsi Wisata dan Petunjuk Arah
+
+<table border="0" align="center">
+ <tr>
+    <td>
+        <p align="center"><img src="Website/assets/img/portofolio/app/wisata-des.png" alt="" height="400"></p>
+    </td>
+    <td>
+        <p align="center"><img src="Website/assets/img/portofolio/app/wisata-maps.png" alt="" height="400"></p>
+    </td>
+ </tr>
+ <tr>
+    <td>
+        <p align="justufy">Saat user memilih wisata yang terpilih maka sistem akan menampilkan halaman deskripsi wisata yang didalamnya menjelaskan isi mengenai wisata diantaranya terdapat gambar wisata, nama wisata, alamat wisata dan deskripsi mengenai wisata. Pada bagian bawah deskripsi terdapat fragment map lokasi tempat wisata berada, fragmen ini juga dapat berfungsi untuk melihat disekitaran lokasi tempat wisata. Dibagian fragment juga user dapat memperbesar dan memperkecil posisi lokasi tempat wisata. Jika user ingin mengetahui rute perjalanan menuju lokasi kuliner, pada bagian fragment tekan tombol panah kemudian sistem akan mengalihakan ke aplikasi google map yang akan menampilakan rute tujuan user.</p>
+    </td>
+    <td>
+        <p align="justufy">Halaman ini merupakan halaman yang menampilkan rute petunjuk arah untuk menempuh perjalanan menuju lokasi tempat wisata yang telah terpilih. Pada tampilan ini user juga dapat memilih rute yang tersedia pada halaman ini sehingga tidak perlu pusing untuk menentukan jalur mana yang lebih cepat sampai menuju lokasi tempat wisata. Halaman ini juga menampilkan estimasi waktu berapa lama menuju tempat tujuan. Sehingga user tidak perlu pusing memikirkan waktu tempuhnya berapa lama menuju lokasi yang akan di tuju.</p>
     </td>
  </tr>
 </table>
