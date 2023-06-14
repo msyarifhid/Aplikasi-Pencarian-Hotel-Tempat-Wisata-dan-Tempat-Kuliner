@@ -124,7 +124,15 @@ b. Petunjuk Arah ke Tempat Wisata
 
 
 
-6.	Halaman list Data Hotel
+6.	Halaman Lofin Admin
+
+<p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/login.png" height="400"></a></p>
+
+<p align="justify">Sebelum admin masuk ke website harus melakukan login terlebih dahulu, admin hanya menginputkan username dan password setelah itu sistem akan menampilkan pemberitahuan. Jika pemberitahuan menyatakan bahwa username dan password salah maka sistem akan menampilkan halaman from login kembali. Jiga pemberitahuan nya menyatakan bahwa username dan password benar maka sistem akan menampilkan halaman utama admin.</p>
+
+
+
+7.	Halaman list Data Hotel
 
 <p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/hotel-list.png" height="400"></a></p>
 
@@ -132,7 +140,7 @@ b. Petunjuk Arah ke Tempat Wisata
 
 
 
-7.	Halaman Tambah Data Hotel
+8.	Halaman Tambah Data Hotel
 
 <p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/hotel-tambah.png" height="400"></a></p>
 <p align="center"><a href="#" target="_blank"><img src="Website/assets/img/portofolio/web/hotel-tambah2.png" height="400"></a></p>
