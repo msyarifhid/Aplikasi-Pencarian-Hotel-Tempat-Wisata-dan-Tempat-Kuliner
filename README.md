@@ -28,19 +28,27 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 
 <p align="justify">Saat pertama kali user membuka aplikasi yang akan tampil yaitu logo aplikasi, setelah itu sistem akan menampilkan halaman utama atau beranda yang dimana isinya terdapat logo aplikasi yang terletak dibagian atas. Kemudian di bawah logo terdapat 4 menu bar diantaranya, menu hotel, menu kuliner, menu wisata dan menu panduan. Pada bagian bawah menu bar terdapat deskripsi singkat mengenai kota yogyakarta dan sejarah singkatnya Yogyakarta, di bagian bawah deskripsi terdapat fragment map yang berfungsi untuk mengetahui lokasi kita saat ini. Sangant berguna banget bagi orang yang belum mengetahui posisi lokasi saat ini.</p>
 
-Pengkajian dampak bencana penting dalam rangka merumuskan program strategis penanggulangan bencana baik saat prabencana tanggap darurat dan pascabencana.
 
-## Ina-PDRI Mikro
+2.	Halaman Menu Hotel
 
-indeks pemulihan pascabencana dimana wilayah terdampak bencana hanya sebagian kecil dr wilayah suatu kabupaten kota mengukur di tingkat desa kelurahan).
-
-## Pengukuran indeks didasarkan pada:
-
-1.	Analisis data di tingkat desa kelurahan
-    a.	Data primer (survey; didasarkan pada kondisi ter update di desa kelurahan
-    b.	Data sekunder (BPBD kab kota , Provinsi , BNPB, dinas , dll
-2.	Berbasis sektor & sub sektor yang dikembangkan BNPB.
-3.	Membutuhkan sumber daya yang cukup : finansial , personil , dan waktu.
+<table border="0" align="center">
+ <tr>
+    <td>
+        <p align="center"><img src="Website/assets/img/portofolio/app/hotel.png" alt="" height="400"></p>
+    </td>
+    <td>
+        <p align="center"><img src="Website/assets/img/portofolio/app/des-hotel.png" alt="" height="400"></p>
+    </td>
+ </tr>
+ <tr>
+    <td>
+        <p align="justufy">Pada halaman beranda jika user menekan tombol menu hotel maka sistem akan menampilkan halaman hotel yang didalamnya terdapat 2 tombol yaitu tombol list hotel dan tombol hotel sekitar serta bar pencarian hotel. Masing-masing menu memiliki aktivitas yang berbeda, pada menu pencarian user bisa dapat menginputkan kata kunci untuk melakukan pencarian hotel. Kemudian sistem akan menampilkan halaman hotel hasil pencarian yang telah diinputkan oleh user.</p>
+    </td>
+    <td>
+        <p align="justufy">Setelah user menemukan hotel yang diinginkan, user dapat menekan tombol pilihan hotel maka sistem akan menampilkan halaman deskripsi hotel yang dimana didalamnya terdapat gambar hotel dari hotel yang telah di pilih serta deskripsi mengenai hotel yang telah di pilih. Pada bagian bawah deskripsi terdapat fragment map lokasi hotel berada, yang dimana fragment map dapat di perbesar atau pun di perkecil.</p>
+    </td>
+ </tr>
+</table>
 
 ## License
 
