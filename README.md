@@ -86,7 +86,6 @@ b. Petunjuk Arah ke Hotel
         <p align="center"><img src="Website/assets/img/portofolio/app/wisata-sekitar.png" alt="" height="400"></p>
     </td>
  </tr>
- <tr>
 </table>
 
 a. Tombol Wisata
