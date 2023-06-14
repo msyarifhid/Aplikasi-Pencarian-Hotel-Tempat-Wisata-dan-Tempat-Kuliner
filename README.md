@@ -15,11 +15,7 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 ## Penggunaan Sistem : 
 1.	Halaman Utama
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
+<table border="0" align="center">
  <tr>
     <td>
         <p align="center"><img src="Website/assets/img/portofolio/app/home.png" alt="" height="400"></p>
