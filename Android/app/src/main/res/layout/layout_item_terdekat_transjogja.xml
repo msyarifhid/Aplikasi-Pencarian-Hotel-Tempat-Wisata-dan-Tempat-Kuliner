@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <ImageView
+            android:id="@+id/icTerdekatTransjogja"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/ic_transjogja" />
+
+    <LinearLayout
+            android:id="@+id/ly_itemTerdekatTransjogja"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="40dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+        <TextView
+                android:id="@+id/tv_tempatTerdekatTransjogja"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:text="Nama Transjogja"
+                android:textColor="@color/colorDarkGrey"/>
+        <TextView
+                android:id="@+id/tv_jarakTerdekatTransjogja"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:text="Deskripsi Transjogja"
+                android:textColor="@color/colorDarkGrey"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:elevation="4dp"
+        android:padding="4dp">
+
+    <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/imgTpWisata"
+            android:src="@drawable/ic_launcher_background"
+    />
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+        <TextView
+                android:id="@+id/tv_namaTpWisata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:text="Nama Tempat Wisata"
+                android:textColor="@color/colorBlack"/>
+
+        <TextView
+                android:id="@+id/tv_listjarakWisataaa"
+                android:layout_width="68dp"
+                android:layout_height="wrap_content"
+                android:textSize="13dp"
+                android:text="Jarak"
+                android:textColor="@color/colorNaturalWhite"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:background="@color/colorOrangeDark"/>
+
+        <TextView
+                android:id="@+id/tv_alamatTpWisata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="13dp"
+                android:text="Alamat Tempat Wisata"
+                android:textColor="@color/colorBlack"/>
+
+        <TextView
+                android:id="@+id/tv_listhargaWisata"
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:text="Harga"
+                android:textStyle="bold"
+                android:textColor="@color/colorOrangeDark"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

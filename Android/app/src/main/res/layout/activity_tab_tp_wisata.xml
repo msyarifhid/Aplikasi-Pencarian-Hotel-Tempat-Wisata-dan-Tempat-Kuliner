@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_tab_tp_wisata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Activity.TabTpWisata">
+
+    <!--<LinearLayout
+            android:id="@+id/titleHeaderwisata"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize">
+
+        <TextView
+                android:id="@+id/titleBar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/colorOrangetua"
+                android:gravity="center"
+                android:text="Menu Wisata"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/colorNaturalWhite"/>
+
+    </LinearLayout>-->
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_tabWisata"
+            android:minHeight="?attr/actionBarSize"
+            android:background="@color/colorPrimary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay"/>
+
+    <TextView
+            android:id="@+id/titleBar"
+            android:layout_below="@+id/toolbar_tabWisata"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:width="@android:dimen/thumbnail_width"
+            android:gravity="center"
+            android:textStyle="bold"/>
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/tb_orange"
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:background="@color/colorGraytua"
+            android:layout_below="@+id/toolbar_tabWisata"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/toolbarTpWisata"
+            android:layout_marginTop="7dp"
+            android:layout_marginHorizontal="3dp"
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+        <android.support.v7.widget.CardView
+                android:id="@+id/btn_tpWisataAll"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:clickable="true"
+                android:layout_weight="1"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/darkwisata"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="30dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="WISATA"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    android:textColor="@color/colorDarkGrey"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="70dp"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+                android:id="@+id/btn_tpWisataSekitar"
+                android:layout_width="0dp"
+                android:layout_height="55dp"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:layout_marginHorizontal="5dp">
+
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/darkbullseye"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="WISATA SEKITAR ANDA"
+                    android:textStyle="bold"
+                    android:textSize="17dp"
+                    android:fontFamily="sans-serif"
+                    android:textColor="@color/colorDarkGrey"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="40dp"/>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbarTpWisata"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorNaturalWhite"
+            app:title="Cari Tempat Wisata"
+            app:titleTextColor="@color/colorGrey"
+            android:layout_marginHorizontal="7dp"
+            android:layout_below="@+id/toolbar_tabWisata"/>
+
+    <ProgressBar
+            android:id="@+id/progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"/>
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_searchTpWisata"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/toolbarTpWisata"
+            android:visibility="gone"
+            android:background="@color/colorNaturalWhite"
+    />
+
+    <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_listTpWisata"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tb_orange"
+    >
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</RelativeLayout>

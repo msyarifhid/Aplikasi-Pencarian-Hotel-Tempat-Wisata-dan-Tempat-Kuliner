@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">JogStrip</string>
+    <string name="tab_hotel">Menu Hotel</string>
+    <string name="des_hotel">Deskripsi Hotel</string>
+    <string name="tab_kuliner">Menu Kuliner</string>
+    <string name="des_kuliner">Deskripsi Kuliner</string>
+    <string name="tab_wisata">Menu Wisata</string>
+    <string name="des_wisata">Deskripsi Wisata</string>
+    <string name="tab_panduan">Panduan Pengguna</string>
+
+    <string name="homeDeskripsi">
+        \ \ \ \ \ \ Daerah Istimewa Yogyakarta mengalami beberapa tahapan. Pertama, masa Prasejarah yang
+        jejaknya ditemukan di Gunung Kidul dan Bantul. Kedua, periode klasik atau masa Hindu-Budha. Saat itu masa
+        dimulainya
+        pemerintahan berbentuk kerajaan. Hingga akhirnya pengaruh Islam masuk ke Indonesia. Lalu muncul kekuatan politik
+        baru Kerajaan Mataram Islam di Kotagede.\n
+        \n \ \ \ \ \ Yogyakarta atau Jogjakarta merupakan kota pelajar sekaligus tempat wisata yang menjadi destinasi
+        pilihan di
+        Indonesia setelah pulau Bali. Selain biaya akomodasi yang murah, kota istimewa ini memiliki berbagai keunikan
+        dan berbagai macam seni pertunjukan. Apa yang membuat Jogja begitu istimewa sampai dikunjungi jutaan orang?
+        salah satunya yaitu tempat wisata dan kuliner yang sering banyak sekali dikunjungi olah wisatawan lokal maupun
+        inter lokal.\n
+        \n \ \ \ \ \ Ada beberapa tips dari aplikasi Jogstrip ini selama berlibur di Yogyakarta yaitu, mempermudah untuk
+        mencari
+        penginapan/ hotel, tempat wisata atau pun tempat kuliner.\n
+    </string>
+    <string name="title_activity_map_des_hotel">Map</string>
+
+    <string name="titleMenuUtama">Halaman Utama</string>
+    <string name="panDesUtama">
+        - Terdapat 4 tombol menu diantaranya, MENU HOTEL,\ \n \ \MENU KULINER, MENU WISATA dan MENU PANDUAN.\n\-
+        Terdapat
+        beberapa gambar yang otomatis akan ganti\ \n \ \dengan sendirinya dan di bawahnya terdapat deskripsi\ \n \ \sekilas mengenai Yogyakarta.\n- Terdapat fragment MAP lokasi saat ini. jika ingin\ \n \ \mengetahui lokasi saat ini
+        tekan fragmen MAP dengan\ \n \ \melakukan perbesar atau perkecil.\n
+    </string>
+
+    <string name="titleMenuHotel">Tombol Menu Hotel</string>
+    <string name="panDesHotel">
+        - Terdapat tombol HOTEL, tombol HOTEL SEKITAR dan\ \n \ \bar PENCARIAN.\n- Tombol HOTEL akan menampilkan list
+        HOTEL.\n- Tombol HOTEL SEKITAR akan menampilkan hotel-hotel\ \n \ \di sekitar posisi Anda saat ini.\n- Bar
+        PENCARIAN untuk mencari hotel-hotel.\n- HOTEL terpilih di dalamnya akan menampilkan deskripsi\ \n \ \mengenai
+        hotel,
+        petunjuk arah HOTEL, KULINER\ \n \ terdekat dan WISATA terdekat.\n
+    </string>
+
+    <string name="titleMenuKuliner">Tombol Menu Kuliner</string>
+    <string name="panDesKuliner">
+        - Terdapat tombol KULINER, tombol KULINER SEKITAR\ \n \ \dan bar PENCARIAN.\n- Tombol KULINER akan menampilkan
+        list KULINER.\n- Tombol KULINER SEKITAR akan menampilkan tempat\ \n \ \KULINER-kuliner di sekitar posisi Anda
+        saat ini.\n-
+        Bar PENCARIAN untuk mencari tempat KULINER.\n- KULINER terpilih di dalamnya akan menampilkan\ \n \ deskripsi
+        mengenai
+        tempat KULINER, petunjuk arah\ \n \ \KULINER, HOTEL terdekat dan WISATA terdekat.\n
+    </string>
+
+    <string name="titleMenuWisata">Tombol Menu Wisata</string>
+    <string name="panDesWisata">
+        - Terdapat tombol WISATA, tombol WISATA SEKITAR dan\ \n \ \bar PENCARIAN.\n- Tombol WISATA akan menampilkan list
+        WISATA.\n- Tombol HOTEL SEKITAR akan menampilkan tempat\ \n \ \WISATA di sekitar posisi Anda saat ini.\n- Bar
+        PENCARIAN untuk mencari tempat wisata.\n- WISATA terpilih di dalamnya akan menampilkan\ \n \ deskripsi mengenai
+        tempat WISATA, petunjuk arah\ \n \ tempat WISATA, tempat KULINER terdekat dan tempat\ \n \ WISATA terdekat.\n
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
