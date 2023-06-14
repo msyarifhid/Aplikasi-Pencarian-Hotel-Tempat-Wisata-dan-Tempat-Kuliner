@@ -17,10 +17,10 @@ Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu 
 
 <div class="row">
     <div class="col-md-6">
-        <p align="center"><img src="Website/assets/img/portofolio/app/home.png" alt="" height="500"></p>
+        <p align="center"><img src="Website/assets/img/portofolio/app/home.png" alt="" height="400"></p>
     </div>
     <div class="col-md-6">
-        <p align="center"><img src="Website/assets/img/portofolio/app/home.png" alt="" height="500"></p>
+        <p align="center"><img src="Website/assets/img/portofolio/app/home2.png" alt="" height="400"></p>
     </div>
     <div class="col-md-12">
         <p align="justify">Saat pertama kali user membuka aplikasi yang akan tampil yaitu logo aplikasi, setelah itu sistem akan menampilkan halaman utama atau beranda yang dimana isinya terdapat logo aplikasi yang terletak dibagian atas. Kemudian di bawah logo terdapat 4 menu bar diantaranya, menu hotel, menu kuliner, menu wisata dan menu panduan. Pada bagian bawah menu bar terdapat deskripsi singkat mengenai kota yogyakarta dan sejarah singkatnya Yogyakarta, di bagian bawah deskripsi terdapat fragment map yang berfungsi untuk mengetahui lokasi kita saat ini. Sangant berguna banget bagi orang yang belum mengetahui posisi lokasi saat ini.</p>
