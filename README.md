@@ -15,10 +15,10 @@
 
 ## Aplikasi Pencarian Hotel, Tempat Kuliner dan Tempat Wisata 
 
-Mengembangkan media informasi pemetaan koordinat lokasi hotel, tempat wisata dan kuliner serta rute petunjuk arah yang dituju di Kota Yogyakarta berbasis Android.
+Mengembangkan media informasi pemetaan koordinat lokasi hotel, tempat wisata dan kuliner serta rute petunjuk arah yang dituju di Daerah Istimewa Yogyakarta berbasis Android yang dapat memudahkan para wisatawan local maupun interlocal.
 
 
-## Analisis Sistem Saat ini
+## Analisis Sistem Sebelumnya
 
 <p align="justify">Kota Yogyakarta sebagai ibukota Propinsi Daerah Istimewa Yogyakarta (DIY) merupakan pusat dari berbagai aktivitas masyarakat antara lain pusat perdagangan, pendidikan, perindustrian, pemerintahan dan pariwisata. Selain gelar kota pelajar, kota Yogyakarta juga sebagai kota budaya karena banyaknya tempat-tempat peninggalan sejarah untuk pelestarian cagar budaya. Kota Yogyakarta mempunyai banyak tempat dan jenis objek wisata. Dari mulai wisata budaya, seperti keraton, bangunan candi, benteng, serta bangunan-bangunan kuno bersejarah, sampai wisata alam seperti objek wisata Kaliurang, pantai Parangtritis dan objek objek wisata yang lain.</p>
 
@@ -30,7 +30,7 @@ Mengembangkan media informasi pemetaan koordinat lokasi hotel, tempat wisata dan
 
 <p align="justify">Pada gambaran diatas, dapat disimpulkan bahwa sistem saat ini memerlukan adanya sistem yang dapat memudahkan wisatawan local maupun inter local untuk memudahkan pencarian hotel atau penginapan sebagai media untuk bermalam/ menginap di kota yogyakarta. Sistem yang akan dibuat juga tidak hanya untuk pencarian hotel atau penginapan saja melainkan dapat melakukan pencarian tempat wisata dan tempat kuliner. Dengan adanya aplikasi pencarian hotel, tempat wisata dan tempat kuliner diharapkan dapat memudahkan wisatawan local maupun inter lokal yang datang atau berkunjung ke kota yogyakarta.</p>
 
-## Analisis Simtem yang Diusulkan
+## Analisis Sistem yang Dibuat
 
 <p align="justify">Sistem yang dibangun ini yaitu dengan membangun sebuah aplikasi pencarian hotel, tempat wisata dan kuliner di kota Yogyakarta berbasis android untuk mempermudah wisatawan local maupun inter local guna untuk mencari hotel atau penginapan, tempat wisata dan tempat kuliner. Sehingga pengguna dapat mengetahui deskripsi dan titik koordinat lokasi tersebut seperti, lokasi hotel, tempat wisata dan kuliner yang dicari atau disukai. Dalam penelitian ini, tahapan yang digunakan adalah sebagai berikut:</p>
 
