@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">sdf</a>
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
@@ -41,4 +41,8 @@ Mengembangkan media informasi pemetaan koordinat lokasi hotel, tempat wisata dan
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The PHP development team announces the immediate availability of PHP 8.1.20. This is a security release.
+
+For source downloads of PHP 8.1.20 please visit our <a href="https://www.php.net/downloads.php">downloads page</a>,
+Windows source and binaries can be found on <a href="https://windows.php.net/download/">windows.php.net/download/</a>.
+The list of changes is recorded in the <a href="https://www.php.net/ChangeLog-8.php#8.1.20">ChangeLog</a>.
