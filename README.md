@@ -2,8 +2,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="Website/uploaded/logo/logo-app.png" width="400"></a></p>
 
 
-<!-- ## Portofolio Project : <a href="Website/assets/img/portofolio/PORTOFOLIO PROJECT.pdf" download target="_blank">Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a> -->
-## Portofolio Project : [click me to download](https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk){target="_blank"}
+## Portofolio Project : <a href="https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk" target="_blank" download>Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a>
+<!-- ## Portofolio Project : [click me to download](https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk){target="_blank"} -->
 
 
 <p align="center">
