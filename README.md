@@ -3,7 +3,7 @@
 
 
 <!-- ## Portofolio Project : <a href="Website/assets/img/portofolio/PORTOFOLIO PROJECT.pdf" download target="_blank">Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a> -->
-## Portofolio Project : [click me to download](https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk){:target="_blank"}
+## Portofolio Project : [click me to download](https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk){target="_blank"}
 
 
 <p align="center">
