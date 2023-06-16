@@ -2,7 +2,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="Website/uploaded/logo/logo-app.png" width="400"></a></p>
 
 
-## Portofolio Project : <a href="Website/assets/img/portofolio/PORTOFOLIO PROJECT APLIKASI PENCARIAN HOTEL TEMPAT WISATA DAN KULINER DI KOTA YOGYAKARTA .pdf" download  target="_blank">Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a>
+## Portofolio Project : <a href="Website/assets/img/portofolio/PORTOFOLIO PROJECT.pdf" download target="_blank">Aplikasi Pencarian Hotel Tempat Wisata dan Tempat Kuliner</a>
 
 
 <p align="center">
