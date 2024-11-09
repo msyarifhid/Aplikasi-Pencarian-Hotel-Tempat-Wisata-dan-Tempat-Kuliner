@@ -2,7 +2,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="Website/uploaded/logo/logo-app.png" width="400"></a></p>
 
 
-## Portofolio Project : <a href="https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk" target="_blank" download>click me to download</a>
+## Portofolio Project : <a href="https://drive.google.com/file/d/1wZe1u3nbtCK9YOgusAbWK36hQS0Pafa6/view?usp=drive_link" target="_blank" download>click me to download</a>
 <!-- ## Portofolio Project : [click me to download](https://drive.google.com/file/d/1Zk8q7FslxAlIVum6OPwryxNMuGl9-eUu/view?usp=drivesdk){target="_blank"} -->
 
 
